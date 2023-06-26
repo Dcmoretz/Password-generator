@@ -1,5 +1,5 @@
 I created the password changing the Javascript code provided.
-The generator gives prompts to the user about what types of characters to use, and password length ass well 
+The generator gives prompts to the user about what types of characters to use, and password length as well 
 
 ![Alt text](Password.PNG)
 
